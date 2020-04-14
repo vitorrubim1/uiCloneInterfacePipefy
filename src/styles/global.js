@@ -15,7 +15,7 @@ export default createGlobalStyle`
         height: 100%;
     }
     body{
-        font: 14px 'Roboto', sans-sarif;
+        font: 14px 'Roboto', sans-serif;
         background: #ecf1f8;
         color: #333;
         -webkit-font-smoothing: antialiased !important;
